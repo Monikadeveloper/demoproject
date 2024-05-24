@@ -5,7 +5,7 @@ import TodoApp from './src/TodoApp';
 
 function App() {
   return (
-        <SafeAreaView>
+       <SafeAreaView>
         <View>
           <TodoApp />
         </View>
